@@ -1,7 +1,0 @@
-GET localhost:8080/api/helloWorld
-
-###
-
-GET localhost:8080/api/person/1
-
-###
