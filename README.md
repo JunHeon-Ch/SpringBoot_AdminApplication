@@ -1,1 +1,1 @@
-# SpringBoot_AdminApplication
+# 스프링부트 실습 - 회원정보관리시스템
